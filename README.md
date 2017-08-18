@@ -1,7 +1,11 @@
 # Sources: learning python
-This is a Book:  [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/html/index.html "Title") writing for Allen B. Downey.
+This Book:  [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/html/index.html "Title") writing for Allen B. Downey.  
+"The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of   mathematics, engineering, and natural science. Like mathematicians, computer scientists use formal languages to denote ideas (specifically  computations). Like engineers, they design things, assembling components into systems and evaluating tradeoffs among alternatives. Like scientists, they observe the behavior of complex systems, form hypotheses, and test predictions."
 
-> ## This are some sources for .
+
+
+<
+> ## This are another sources for .
 > 
 > 1.   [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/ "Title").
 > 2.   [Expressions and evaluation](https://github.com/ledeprogram/courses/blob/master/databases/01%20Lists.ipynb "Title").
