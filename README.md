@@ -4,7 +4,7 @@ This Book:  [Think Python: How to Think Like a Computer Scientist](http://www.gr
 
 
 
-<
+
 > ## This are another sources for .
 > 
 > 1.   [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/ "Title").
