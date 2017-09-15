@@ -13,3 +13,5 @@ This Book:  [Think Python: How to Think Like a Computer Scientist](http://www.gr
 > 4.   [String operations and regular expressions](https://github.com/ledeprogram/courses/blob/master/databases/03%20Strings%20and%20regular%20expressions.ipynb "Title").
 > 
 >     
+## Courses
+> 1. [Coursera: An Introduction to Interactive Programming in Python (Part 1)](https://www.class-central.com/mooc/408/coursera-an-introduction-to-interactive-programming-in-python-part-1)
