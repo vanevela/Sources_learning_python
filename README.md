@@ -20,3 +20,7 @@
 ## Courses
 > 1. [Coursera: An Introduction to Interactive Programming in Python (Part 1)](https://www.class-central.com/mooc/408/coursera-an-introduction-to-interactive-programming-in-python-part-1)
 > 2. [Python for Everybody](https://www.py4e.com/lessons)
+
+# Data Analysis in Python
+> 1. [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
+
